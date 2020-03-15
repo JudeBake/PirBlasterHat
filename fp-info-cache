@@ -1,4 +1,4 @@
-16955274645007912
+16956902509704866
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50120,35 +50120,35 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 2
 2
 JB_Bitmaps
-CC-BY-SA 4MM
+CC-BY-SA_4MM
 
 
 0
 0
 0
 JB_Bitmaps
-CC-BY-SA 6MM
+CC-BY-SA_6MM
 
 
 0
 0
 0
 JB_Bitmaps
-CC-BY-SA 8MM
+CC-BY-SA_8MM
 
 
 0
 0
 0
 JB_Bitmaps
-CC-BY-SA 10MM
+CC-BY-SA_10MM
 
 
 0
 0
 0
 JB_Bitmaps
-CC-BY-SA 12MM
+CC-BY-SA_12MM
 
 
 0
@@ -50182,6 +50182,13 @@ JB_Logo_10MM
 0
 0
 0
+JB_Connector_Barrel_Audio
+SJ-435107
+TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+6
+6
 JB_Header_100mils
 ESQ-120-34-G-D
 
