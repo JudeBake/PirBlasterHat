@@ -2264,6 +2264,72 @@ F 7 "0R" V 5900 2500 50  0000 C CNN "Resistance"
 	1    5900 2500
 	0    1    1    0   
 $EndComp
+$Comp
+L JB_Bitmap:JudeBake_Logo G1
+U 1 1 5E70CA7A
+P 15300 9000
+F 0 "G1" H 15300 8877 60  0001 C CNN
+F 1 "JudeBake_Logo" H 15300 9123 60  0001 C CNN
+F 2 "JB_Bitmaps:JB_Logo_10MM" H 15300 9000 50  0001 C CNN
+F 3 "" H 15300 9000 50  0001 C CNN
+	1    15300 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L JB_Bitmap:CC-BY-SA_Logo G2
+U 1 1 5E70D851
+P 15800 9000
+F 0 "G2" H 15800 8955 60  0001 C CNN
+F 1 "CC-BY-SA_Logo" H 15800 9045 60  0001 C CNN
+F 2 "JB_Bitmaps:CC-BY-SA_10MM" H 15800 9000 50  0001 C CNN
+F 3 "" H 15800 9000 50  0001 C CNN
+	1    15800 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L JB_Mechanical:Fiducial FID1
+U 1 1 5E715969
+P 1700 10200
+F 0 "FID1" H 1785 10200 50  0000 L CNN
+F 1 "Fiducial" H 1700 10325 50  0001 C CNN
+F 2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" H 1700 10200 50  0001 C CNN
+F 3 "~" H 1700 10200 50  0001 C CNN
+	1    1700 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L JB_Mechanical:Fiducial FID3
+U 1 1 5E71703E
+P 1700 10400
+F 0 "FID3" H 1785 10400 50  0000 L CNN
+F 1 "Fiducial" H 1700 10525 50  0001 C CNN
+F 2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" H 1700 10400 50  0001 C CNN
+F 3 "~" H 1700 10400 50  0001 C CNN
+	1    1700 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L JB_Mechanical:Fiducial FID4
+U 1 1 5E7179F8
+P 2200 10400
+F 0 "FID4" H 2285 10400 50  0000 L CNN
+F 1 "Fiducial" H 2200 10525 50  0001 C CNN
+F 2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" H 2200 10400 50  0001 C CNN
+F 3 "~" H 2200 10400 50  0001 C CNN
+	1    2200 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L JB_Mechanical:Fiducial FID2
+U 1 1 5E7183BE
+P 2200 10200
+F 0 "FID2" H 2285 10200 50  0000 L CNN
+F 1 "Fiducial" H 2200 10325 50  0001 C CNN
+F 2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" H 2200 10200 50  0001 C CNN
+F 3 "~" H 2200 10200 50  0001 C CNN
+	1    2200 10200
+	1    0    0    -1  
+$EndComp
 Wire Bus Line
 	3500 3500 3500 5000
 Wire Bus Line
@@ -2278,4 +2344,48 @@ Wire Bus Line
 	13300 900  13300 7700
 Wire Bus Line
 	800  1800 800  3500
+$Comp
+L JB_Mechanical:Fiducial FID5
+U 1 1 5E7278A2
+P 2700 10200
+F 0 "FID5" H 2785 10200 50  0000 L CNN
+F 1 "Fiducial" H 2700 10325 50  0001 C CNN
+F 2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" H 2700 10200 50  0001 C CNN
+F 3 "~" H 2700 10200 50  0001 C CNN
+	1    2700 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L JB_Mechanical:Fiducial FID7
+U 1 1 5E728579
+P 2700 10400
+F 0 "FID7" H 2785 10400 50  0000 L CNN
+F 1 "Fiducial" H 2700 10525 50  0001 C CNN
+F 2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" H 2700 10400 50  0001 C CNN
+F 3 "~" H 2700 10400 50  0001 C CNN
+	1    2700 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L JB_Mechanical:Fiducial FID6
+U 1 1 5E728F5C
+P 3100 10200
+F 0 "FID6" H 3185 10200 50  0000 L CNN
+F 1 "Fiducial" H 3100 10325 50  0001 C CNN
+F 2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" H 3100 10200 50  0001 C CNN
+F 3 "~" H 3100 10200 50  0001 C CNN
+	1    3100 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L JB_Mechanical:Fiducial FID8
+U 1 1 5E72994B
+P 3100 10400
+F 0 "FID8" H 3185 10400 50  0000 L CNN
+F 1 "Fiducial" H 3100 10525 50  0001 C CNN
+F 2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" H 3100 10400 50  0001 C CNN
+F 3 "~" H 3100 10400 50  0001 C CNN
+	1    3100 10400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
