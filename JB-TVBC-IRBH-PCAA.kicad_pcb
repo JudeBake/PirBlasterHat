@@ -3854,6 +3854,7 @@
   (gr_line (start 165 127) (end 165 77) (layer Edge.Cuts) (width 0.1) (tstamp 5E63A043))
   (gr_line (start 103 130) (end 162 130) (layer Edge.Cuts) (width 0.1) (tstamp 5E63A046))
 
+  (via (at 157.48 109.22) (size 0.508) (drill 0.254) (layers F.Cu B.Cu) (net 2))
   (segment (start 108.37 78.77) (end 108.37 79.2896) (width 0.635) (layer B.Cu) (net 1))
   (segment (start 108.37 79.2896) (end 108.382 79.3016) (width 0.635) (layer B.Cu) (net 1))
   (segment (start 108.382 79.3016) (end 108.382 83.1624) (width 0.635) (layer B.Cu) (net 1))
