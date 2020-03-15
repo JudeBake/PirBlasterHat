@@ -1,4 +1,4 @@
-16958486787142834
+16961655446622036
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50191,17 +50191,31 @@ TRS audio jack stereo horizontal circular
 6
 JB_Header_100mils
 ESQ-120-34-G-D
-
+Samtec ESQ 2x20 Female Header 0.100 Pitch 0.635 Insulation 0.280 Post
 
 0
 40
 40
+JB_IrReceiver
+TSOP753xx_RA
+TSOP753xx Right Angle
+ir, ir receiver
+0
+4
+4
 JB_Mechanical
 Fiducial_1.5mm_Mask3mm
 Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening
 fiducial
 0
 1
+0
+JB_Mechanical
+TH-UPLTD-D5.2
+THRU HOLE UNPLATED 5.2 DIA
+through hole
+0
+0
 0
 JB_Signal_Relay
 AGQ_SMD
